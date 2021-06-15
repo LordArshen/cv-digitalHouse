@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#header-cv{
+    align-content: center;
+    background-color: #E5E5E5;
+}
+
+
+.title-data{
+    background-color:#C4C4C4 ;
+    color: #005677;
+    text-transform: uppercase;
+}
+
+
+.date-strong{
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+.contact{
+    background-color:#005677;
+    color: white;
+}
