@@ -3,12 +3,23 @@ body{
 }
 
 #header-cv{
-    align-content: center;
+    
     background-color: #E5E5E5;
+    display: flex;
 }
 
+header #title-principal{
+    font-size: 40px;
+}
+
+header #personal-img{
+    width: 200px;
+    height: 200px;
+    
+}
 
 .title-data{
+    
     background-color:#C4C4C4 ;
     color: #005677;
     text-transform: uppercase;
